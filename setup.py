@@ -42,6 +42,6 @@ setup(
     zip_safe=False,
     platforms='any',
     install_requires=[
-        'gevent==1.2.0',
+        'gevent==23.9.1',
     ],
 )
